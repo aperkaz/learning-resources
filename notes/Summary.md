@@ -10,7 +10,7 @@ Ever growing 'index' doc, for quick content reference and navigation.
 #### Behavioral Questions
 Non technical questions, mostly targeted towards knowing the candidate.
 
-[LINK](/Behavioral_Questions/Behavioral_Questions.md)
+[LINK](/notes/Behavioral_Questions/Behavioral_Questions.md)
 
 ## <a name=algorithms></a>Algorithms
 #### Big-O
