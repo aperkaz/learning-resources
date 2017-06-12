@@ -1,14 +1,22 @@
 # ace-code-interview
-Learning referral for  :spades: [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) :spades:.
+Growing repository featuring:
+- Algorithms
+- System design/architecture
+- Job-hunting process
+- Coding interview process preparation
 
-### Goal
-Walk throw the aforementioned material and generate the solution for each question. Whiteboard && code approach.
+Heavily inspired by  :spades: [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) :spades:.
 
 ## Table of contents
-TODO
+Due to the *non* linearity of the content, [SUMMARY.md](/notes/Summary.md) will the source of truth when it comes to content overview and navigation.
 
-## Project structure
-TODO
+### Goal
+The goal of this live document is to help new-comers and seasoned devs that need to wrap up before interview or job-hunting "journey".
+
+![a](https://media.giphy.com/media/D0vg2MvsCxGrS/giphy.gif)
+
+## Disclaimer
+I am not a senior dev myself and I develop this guide for the purpose of capturing the key points, always from **my point of view**. Out of good faith, if some misconceptions arise along the way, please be benevolent.
 
 ## License
 MIT © [Alain Perkaz](https://aperkaz.github.io)
