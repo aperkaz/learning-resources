@@ -14,6 +14,7 @@ Non technical questions, mostly targeted towards knowing the candidate.
 
 ## <a name=algorithms></a>Algorithms
 #### Big-O
+Used to estimate algorithm theoretical execution-time.
 
 ## <a name=offer_negotiation></a>Offer Negotiation
 How to leverage and manage a successful offer negotiation.
