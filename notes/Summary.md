@@ -16,6 +16,13 @@ Non technical questions, mostly targeted towards knowing the candidate.
 #### Big-O
 Used to estimate algorithm theoretical execution-time.
 
+TODO
+
+## <a name=cleancode></a>Clean Code
+https://github.com/ryanmcdermott/clean-code-javascript
+
+TODO 
+ 
 ## <a name=offer_negotiation></a>Offer Negotiation
 How to leverage and manage a successful offer negotiation.
 
