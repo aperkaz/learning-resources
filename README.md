@@ -6,6 +6,7 @@ Growing repository featuring:
 * System design/architecture
 * Job-hunting process
 * Coding interview process preparation
+* Practical exercises
 
 Heavily inspired by  :spades: [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) :spades:.
 

@@ -5,6 +5,7 @@ Ever growing 'index' doc, for quick content reference and navigation.
 1. [Questioning](#questioning)
 2. [Algorithms](#algorithms)
 3. [Offer negotiation](#offer_negotiation)
+4. [Exercises](#exercises)
 
 ## <a name=questioning></a>Questioning
 #### Behavioral Questions
@@ -25,6 +26,10 @@ TODO
  
 ## <a name=offer_negotiation></a>Offer Negotiation
 How to leverage and manage a successful offer negotiation.
+
+## <a name=exercises></a>Exercises
+Practical exercises.
+[LINK](/exercises)
 
 <br/><br/>
 
