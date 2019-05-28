@@ -3,12 +3,13 @@
 Growing repository featuring:
 
 * Algorithms
+* Technical questions (and answers)
 * System design/architecture
 * Job-hunting process
 * Coding interview process preparation
 * Practical exercises
 
-Heavily inspired by  :spades: [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) :spades:.
+Heavily inspired by :spades: [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) :spades:.
 
 ## Table of contents
 

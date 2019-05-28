@@ -13,6 +13,11 @@ Non technical questions, mostly targeted towards knowing the candidate.
 
 [LINK](/notes/Behavioral_Questions/Behavioral_Questions.md)
 
+#### Technical Questions
+Technical questions, centered on the frontend stack.
+
+[LINK](/notes/Technical_Questions/Technical_Questions.md)
+
 ## <a name=algorithms></a>Algorithms
 #### Big-O
 Used to estimate algorithm theoretical execution-time.
