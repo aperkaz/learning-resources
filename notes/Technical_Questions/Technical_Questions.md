@@ -270,6 +270,29 @@ Overwrites may colide too.
 
 Static class members are shared between the different instances of class. Usefull for utility methods or variables that should not change/ stateless.
 
-### Wh
+### What is the event loop?
+
+The event loop is a single threaded loop that checks if there is work to do left in the task queue.
+
+### What is the difference between `.call` and `.apply`?
+
+They both get context passed as the first argument. `.call` then passes individually the rest of the arguments to the function, while `.apply` passes an array as second argument, containing all the parameters.
+
+### [...] is a technique of handling events at a higher level in the DOM than where the event originated.
+
+Event delegation is the technique, which uses `event bubbling`.
+Add listeners to a parent element that will be triggered by a children's event.
+
+### When would you use `document.load` event?
+
+Fired when all the HTML,CSS and dependent resources are ready. I would use it to delay the program execution (ex. trigger JS animations), or other processes that need to assure that all the required assets are fetched and loaded.
+
+### What is the difference between mutable an inmutable objects?
+
+Mutable objects can be modified after declaration, and can not be passed by reference, as the original object may be modified somewhere else.
+Inmutable objects can be copied by reference, while modifiyng requires to copy the whole object.
+
+### 
+
 
 
