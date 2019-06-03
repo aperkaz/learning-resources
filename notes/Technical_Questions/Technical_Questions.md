@@ -292,7 +292,51 @@ Fired when all the HTML,CSS and dependent resources are ready. I would use it to
 Mutable objects can be modified after declaration, and can not be passed by reference, as the original object may be modified somewhere else.
 Inmutable objects can be copied by reference, while modifiyng requires to copy the whole object.
 
-### 
+### What are the disadvantages of using Promises against callbacks?
 
+Promises are a newer feature of the language, they may need pollyfil for some browsers.
 
+Callbacks can attach anonimous functions.
 
+### What is the difference between host objects and native objects?
+
+Host objects are provided by the runtime environment (window, document)...
+
+Native objects are objects part of the ECMAScript specification (String, Fucntion...)
+
+### When would you use a closure?
+
+A closure is a fucntion that returns a function that has access to the scope of the enclosing function. 
+
+Usefull for hiding data, currying (execute operations with function composition).
+
+### How can you share code between files?
+
+In browser
+RequireJS and the `window` object.
+In node
+You can use module.exports = {}, require {} from ''; 
+
+Both
+Of es6 import syntac, export const a; import {a} from '';
+
+### How does the `this` keyboard work in JS?
+
+This keyboard refers to the context. The context is the surrounding object when a fucntion is called.
+
+```javascript
+Function.prototype.call(context, arg1, arg2, ...)
+Function.prototype.apply(context,[arg1, arg2, ...])
+Function.prototype.bind(constext)// create new function to be called in context
+```
+
+### What is a HOC?
+
+A High-Order-Function is a function that takes a function as an argument or returns a function. Usefull for adding functionality to existing functions.
+
+```javascript
+const logggingHOC => (afunction) => (args) => {
+    console.log(`calling with args:`, args);
+    return afunction.apply(this,args);
+}
+```.
