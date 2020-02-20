@@ -4,8 +4,9 @@ Ever growing 'index' doc, for quick content reference and navigation.
 ## Table of contents
 1. [Questioning](#questioning)
 2. [Algorithms](#algorithms)
-3. [Offer negotiation](#offer_negotiation)
-4. [Exercises](#exercises)
+3. [Clean code](#cleancode)
+4. [Offer negotiation](#offer_negotiation)
+5. [Exercises](#exercises)
 
 ## <a name=questioning></a>Questioning
 #### Behavioral Questions
@@ -31,6 +32,8 @@ TODO
  
 ## <a name=offer_negotiation></a>Offer Negotiation
 How to leverage and manage a successful offer negotiation.
+
+[Negociations in Valley Silicon](https://medium.com/@bayareabelletrist/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
 
 ## <a name=exercises></a>Exercises
 Practical exercises.
