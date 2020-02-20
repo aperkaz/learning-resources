@@ -5,8 +5,9 @@ Prepare for them, as the knowledge you get is useful in day to day too.
 
 ## JS inteview questions
 
-### When would you use a closure?
-
+<details>
+  <summary>### When would you use a closure?</summary>
+  
 A closure encapsulates a section of code, accessible only by the returned function.
 
 ```javascript
@@ -56,6 +57,7 @@ const add10 = partialApply(add, 10);
 
 console.log(add10(5)); // 15
 ```
+</details>
 
 ### What are the advantages of using Promises instead of Callbacks?
 
