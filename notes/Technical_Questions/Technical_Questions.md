@@ -6,7 +6,7 @@ Prepare for them, as the knowledge you get is useful in day to day too.
 ## JS inteview questions
 
 <details>
-  <summary>### When would you use a closure?</summary>
+  <summary>When would you use a closure?</summary>
   
 A closure encapsulates a section of code, accessible only by the returned function.
 
@@ -59,8 +59,11 @@ console.log(add10(5)); // 15
 ```
 </details>
 
-### What are the advantages of using Promises instead of Callbacks?
 
+<details>
+  <summary>What are the advantages of using Promises instead of Callbacks?</summary>
+ 
+ 
 Promises are a newer spec of the JS language. They provide a cleaner mechanism to handle async operations such as network requests, or I/O.
 They have APIs for chaining async ops `Promise.then` and handle concurrent promises with `Promise.all([arrayWithPromises]).then`.
 
@@ -94,9 +97,12 @@ function alertComplete(){
 }
 
 someAsyncMessage('Hi Sara', alertComplete);
-```
+``` 
+</details>
 
-### What is the difference between window `load` and `DOMContentLoaded`
+
+<details>
+  <summary>What is the difference between window `load` and `DOMContentLoaded`</summary>
 
 `DOMContentLoaded` is fired when the initial HTML of a page is parsed and rendered, without waiting for the dependent resources (styles, fonts...) to load.
 
@@ -110,10 +116,13 @@ window.addEventListener('DOMContentLoaded', (event) => {
     console.log('DOM fully loaded and parsed (not dependent resources)'); // executed first
 });
 ```
+</details>
 
-### What is variable `hoisting`?
 
-`Hoisting` is a JS behaviour that happens at interpretation (run time). Some browsers have JIT compilers that translate JS to bytecode.
+<details>
+  <summary>What is variable `hoisting`?</summary>
+ 
+ `Hoisting` is a JS behaviour that happens at interpretation (run time). Some browsers have JIT compilers that translate JS to bytecode.
 
 The declaration of variables (not assignment) declared with `var` are brought up to the scope. Global or function scope. `let` and `const` have block scope, hoisted only to block level, not global / function.
 
@@ -138,7 +147,8 @@ function test(){
     const f = 10;
 }
 
-```
+``` 
+</details>
 
 ### Synchronous vs Async functions?
 
