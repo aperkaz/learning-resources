@@ -1,4 +1,4 @@
-# Code Learning Resources
+# 🙇‍♂️ Learning Resources
 
 Ever-growing repository of learning resources. Focused on JS, TS, React, Node.js, and everything in between.
 
