@@ -1,4 +1,4 @@
-# ace-code-interview
+# Code Learning Resources
 
 Growing repository featuring:
 
@@ -8,6 +8,7 @@ Growing repository featuring:
 * Job-hunting process
 * Coding interview process preparation
 * Practical exercises
+* Interesting reads (articles and books)
 
 Heavily inspired by :spades: [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) :spades:.
 
