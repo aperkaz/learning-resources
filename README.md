@@ -35,3 +35,11 @@ Technical questions, centered on the frontend stack.
  * [TODO]()
   
 </details>
+
+
+<details><summary>📚 Talks</summary>
+
+ * [Rich Harris - SPAs kill the web](https://www.youtube.com/watch?app=desktop&v=860d8usGC0o)
+ * [Rich Harris - Rethinking productivity](https://www.youtube.com/watch?v=AdNJ3fydeao&list=PLbQXBqcPbGN7elxkOnPAmJF9exd7xsSg2&index=1)
+  
+</details>
