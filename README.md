@@ -27,6 +27,7 @@ Technical questions, centered on the frontend stack.
  * [10 TS tips](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
  * [Questions to ask in a remote interview](https://medium.com/free-code-camp/how-to-interview-for-a-remote-job-f6282ee0365d)
  * [Writting Epics & User stories](https://productcoalition.com/how-to-write-epics-and-user-stories-best-practice-1de5b983900)
+ * [Web animation performance fundamentals](https://www.freecodecamp.org/news/web-animation-performance-fundamentals)
   
 </details>
 
@@ -41,5 +42,5 @@ Technical questions, centered on the frontend stack.
  * [Rich Harris - SPAs kill the web](https://www.youtube.com/watch?app=desktop&v=860d8usGC0o)
  * [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao&list=PLbQXBqcPbGN7elxkOnPAmJF9exd7xsSg2&index=1)
  * [Indie maker - Moodmonk](https://www.youtube.com/watch?v=c4l8e7pJCsA)
-  
+ * [A Treatise on State](https://www.youtube.com/watch?v=tBz3UmZG_bk)
 </details>
