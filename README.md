@@ -29,7 +29,8 @@ Technical questions, centered on the frontend stack.
  * [Writting Epics & User stories](https://productcoalition.com/how-to-write-epics-and-user-stories-best-practice-1de5b983900)
  * [Web animation performance fundamentals](https://www.freecodecamp.org/news/web-animation-performance-fundamentals)
  * [Dont parse, validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
- * [Tao of Node](https://alexkondov.com/tao-of-node/#business-logic-middleware)
+ * [Tao of Node](https://alexkondov.com/tao-of-node/)
+ * [Tao of React](https://alexkondov.com/tao-of-react/)
   
 </details>
 
