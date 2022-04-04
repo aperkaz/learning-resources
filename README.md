@@ -31,6 +31,7 @@ Technical questions, centered on the frontend stack.
  * [Dont parse, validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
  * [Tao of Node](https://alexkondov.com/tao-of-node/)
  * [Tao of React](https://alexkondov.com/tao-of-react/)
+ * [Heroku HTTP API design](https://geemus.gitbooks.io/http-api-design/content/en/)
   
 </details>
 
