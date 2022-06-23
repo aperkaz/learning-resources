@@ -37,7 +37,7 @@ Technical questions, centered on the frontend stack.
 
 <details><summary>📚 Books</summary>
 
- * [TODO]()
+ * [97 Things Every Software Architect Should Know](https://www.oreilly.com/library/view/97-things-every/9780596800611/)
   
 </details>
 
